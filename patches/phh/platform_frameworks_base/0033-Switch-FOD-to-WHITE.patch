@@ -1,4 +1,4 @@
-From d277398a3741cbf7fa05828b7cc1056dd4cf758a Mon Sep 17 00:00:00 2001
+From 539b36f10555416f5500f63ed35371b7f28c136c Mon Sep 17 00:00:00 2001
 From: Pierre-Hugues Husson <phh@phh.me>
 Date: Mon, 2 May 2022 18:02:25 -0400
 Subject: [PATCH 33/35] Switch FOD to WHITE
@@ -22,4 +22,5 @@ index 51409b9c533a..77fad35d32d4 100644
  
 -- 
 2.25.1
+
 
