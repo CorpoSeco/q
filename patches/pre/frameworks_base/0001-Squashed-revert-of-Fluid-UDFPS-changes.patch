@@ -1,7 +1,7 @@
 From 871f8bf99450ae3591c529c6b9f7060c21578668 Mon Sep 17 00:00:00 2001
 From: TheAtt1la <alittauwu@gmail.com>
 Date: Thu, 9 Feb 2023 05:11:21 +0100
-Subject: [PATCH 01/23] Squashed revert of Fluid UDFPS changes
+Subject: [PATCH] Squashed revert of Fluid UDFPS changes
 
 ---
  packages/SystemUI/proguard.flags              |  5 +--
